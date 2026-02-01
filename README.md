@@ -57,10 +57,10 @@
 
 Клонировать репозиторий:
 
-git clone https://github.com/kuznetsovdanil21/fast-food-kitchen-model.git
-Открыть проект в GIGA IDE / IntelliJ IDEA
-Дождаться загрузки Maven-зависимостей
-Запустить класс HelloApplication
+- git clone https://github.com/kuznetsovdanil21/fast-food-kitchen-model.git
+- Открыть проект в GIGA IDE / IntelliJ IDEA
+- Дождаться загрузки Maven-зависимостей
+- Запустить класс HelloApplication
   
 ---
 ## Конфигурация
